@@ -12,3 +12,4 @@ Do not push any code to that repository.
 4. Make the `nextcloud_release_service` user is a co-maintainer of your app on https://apps.nextcloud.com/
 5. Make sure you have admin rights to this repository
 
+
